@@ -2,7 +2,7 @@
 
 #!/bin/bash
 
-FOLDER="Sorted_20220914_134240"
+FOLDER="Sorted"
 FILES=$FOLDER/*
 
 mkdir $FOLDER/Videos
